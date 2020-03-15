@@ -1,2 +1,2 @@
-#Hello you fucking shit!
-##u suck dick
+# Hello Git!
+## Nice to meet you!
